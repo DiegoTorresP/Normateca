@@ -1,0 +1,28 @@
+a.vlink {
+    color : #efefef;
+    position:relative;
+    height:auto;
+    width:100px;
+    text-align:center;
+    line-height:14px;
+    display:block;
+    font-size:smaller;
+    text-decoration: none;
+    padding: 8px;
+  }
+ 
+  a.vlink:hover {
+    background-color: rgb(240, 130, 91, 1);
+    box-shadow : 1px 2px 3px #9d451d;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2825b', endColorstr='#f07146',GradientType=1 ); /* IE6-9 */
+  }
+   
+   
+  ul.opciones{
+    background-color: rgb(69, 72, 77, 1);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=1 ); /* IE6-9 */
+    margin-bottom: -1.5rem;
+  }
+  .navbar{
+    z-index: 2;
+  }
