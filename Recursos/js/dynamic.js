@@ -42,7 +42,7 @@ function addDarkmodeWidget() {
     //Inicializa contenedor leyes
     $("#ley_1").addClass("active-opciones")
     //Contenido de Imagen
-    $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/38219766/mini_magick20190226-12499-s4mjri.png?1551169058' alt='Ley General de Protección Datos' style='max-width:50% ; min-width:25% ; max-height:50% ; min-height:25% ;background-color: white' class='' />");
+    $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/38219766/mini_magick20190226-12499-s4mjri.png?1551169058' alt='Ley General de Protección Datos' style='max-width:300px ; min-width:150px ; max-height:338px ; min-height:194px ;background-color: white' class='' />");
     //Contenido de texto
     $("#leyes_content").html("1");
     //Inicializa contenedor estandares
@@ -60,7 +60,7 @@ function addDarkmodeWidget() {
         $("#ley_3").removeClass("active-opciones");
         $("#ley_4").removeClass("active-opciones");
         //Contenido de Imagen
-        $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/38219766/mini_magick20190226-12499-s4mjri.png?1551169058' alt='Ley General de Protección Datos' style='max-width:50% ; min-width:25% ; max-height:50% ; min-height:25% ;background-color: white' class='' />");
+        $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/38219766/mini_magick20190226-12499-s4mjri.png?1551169058' alt='Ley General de Protección Datos' style='max-width:300px ; min-width:150px ; max-height:338px ; min-height:194px ;background-color: white' class='' />");
         //Contenido de texto
         $("#leyes_content").html("1");
     })
@@ -71,7 +71,7 @@ function addDarkmodeWidget() {
         $("#ley_3").removeClass("active-opciones");
         $("#ley_4").removeClass("active-opciones");
         //Contenido de Imagen
-        $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/51862496/mini_magick20190124-29409-w2z0bl.png?1548336959' alt='Ley de Propiedad Industrial' style='max-width:50% ; min-width:25% ; max-height:50% ; min-height:25% ;background-color: white' class='' />");
+        $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/51862496/mini_magick20190124-29409-w2z0bl.png?1548336959' alt='Ley de Propiedad Industrial' style='max-width:300px ; min-width:150px ; max-height:338px ; min-height:194px ;background-color: white' class='' />");
         //Contenido de texto
         $("#leyes_content").html("2");
     })
@@ -82,7 +82,7 @@ function addDarkmodeWidget() {
         $("#ley_2").removeClass("active-opciones");
         $("#ley_4").removeClass("active-opciones");
         //Contenido de Imagen
-        $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/51165256/mini_magick20190126-25468-1lvdoyv.png?1548510919' alt='Ley Federal de Derechos de Autor' style='max-width:50% ; min-width:25% ; max-height:50% ; min-height:25% ;background-color: white' class='' />");
+        $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/51165256/mini_magick20190126-25468-1lvdoyv.png?1548510919' alt='Ley Federal de Derechos de Autor' style='max-width:300px ; min-width:150px ; max-height:338px ; min-height:194px ;background-color: white' class='' />");
         //Contenido de texto
         $("#leyes_content").html("3");
     })
@@ -93,7 +93,7 @@ function addDarkmodeWidget() {
         $("#ley_2").removeClass("active-opciones");
         $("#ley_3").removeClass("active-opciones");
         //Contenido de Imagen
-        $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/61542999/mini_magick20191217-20898-1xqr8d3.png?1576614258' alt='Código Penal Federal' style='max-width:50% ; min-width:25% ; max-height:50% ; min-height:25% ;background-color: white' class='' />");
+        $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/61542999/mini_magick20191217-20898-1xqr8d3.png?1576614258' alt='Código Penal Federal' style='max-width:300px ; min-width:150px ; max-height:338px ; min-height:194px ;background-color: white' class='' />");
         //Contenido de texto
         $("#leyes_content").html("4");
     })
