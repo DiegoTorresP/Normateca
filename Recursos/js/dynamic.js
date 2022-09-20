@@ -42,7 +42,7 @@ function addDarkmodeWidget() {
     //Inicializa contenedor leyes
     $("#ley_1").addClass("active-opciones")
     //Contenido de Imagen
-    $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/38219766/mini_magick20190226-12499-s4mjri.png?1551169058' alt='ProtecciónDatos' width='600' height='776' class='' />");
+    $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/38219766/mini_magick20190226-12499-s4mjri.png?1551169058' alt='ProtecciónDatos' width='300' height='338' class='' />");
     //Contenido de texto
     $("#leyes_content").html("1");
     //Inicializa contenedor estandares
