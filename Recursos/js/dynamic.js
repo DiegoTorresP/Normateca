@@ -44,7 +44,18 @@ function addDarkmodeWidget() {
     //Contenido de Imagen
     $("#leyes_imagen").html("<img src='https://0.academia-photos.com/attachment_thumbnails/38219766/mini_magick20190226-12499-s4mjri.png?1551169058' alt='Ley General de Protección Datos' style='max-width:300px ; min-width:150px ; max-height:338px ; min-height:194px ;background-color: white' class='' />");
     //Contenido de texto
-    $("#leyes_content").html("1");
+    $("#leyes_content").html("<h2>Ley general de protección de datos personales de México</h2>"+
+    " <p>México cuenta con una ley que regula el tratamiento de los datos personales por parte de empresas del sector privado"+
+    " desde el 5 de julio de 2010, esa ley se llama Ley Federal de Protección de Datos Personales en Posesión de los"+
+    " Particulares o Ley de Protección de Datos."+
+    "<br>"+
+    "Su aplicación determina que se evite que los datos personales sean utilizados indebidamente, que se respeten los"+
+    "derechos de los dueños de los datos y que se garantice una expectativa razonable de privacidad. Quienes traten datos"+
+    "personales deben tomar en cuenta las guías y documentos emitidos por el Instituto Nacional de Transparencia, Acceso"+
+    "a la Información y Protección de Datos Personales ('INAI').</p>"+
+    "<br>"+
+    "<p style='font-weight:bold;'>Puede consultar la ley general de protección de datos personales de México </p>"+
+    "<a href='http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf'><i class='fa fa-external-link' aria-hidden='true'></i>AQUI</a>");
     //Inicializa contenedor estandares
     $("#est_1").addClass("active-opciones")
     //Contenido de Imagen
