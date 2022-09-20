@@ -16,7 +16,6 @@
 
 .ch-container {
     align-self: center;
-    border: solid 1px;
     margin: 30px;
     margin-left: 60px;
     padding: 10px;
@@ -30,7 +29,7 @@ footer {
     background-color: #fff;
     color: #6e7582;
     bottom: 0;
-    position: relative;
+    position: inherit;
     left: 0;
     width: 100%;
     z-index: -1;
@@ -94,7 +93,7 @@ h6 {
     font-weight: bold;
 }
 
-/*--------------- Animación de escritura para el título general ---------------*/
+/*--------------- Animaciï¿½n de escritura para el tï¿½tulo general ---------------*/
 #sTituloGeneral {
     font-size: 60px;
     overflow: hidden;
@@ -119,7 +118,7 @@ h6 {
     }
 }
 
-/*--------------- Animación de rebote para la imagen ---------------*/
+/*--------------- Animaciï¿½n de rebote para la imagen ---------------*/
 #imgSeguridad {
     /*border-radius: 50%;*/
     animation: bounce 3s;
